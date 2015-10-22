@@ -1,0 +1,10 @@
+c:\users\turbo-x\documents\visual studio 2013\Projects\GeographyExam\GeographyExam\bin\Debug\GeographyExam.exe.config
+C:\Users\Turbo-X\documents\visual studio 2013\Projects\GeographyExam\GeographyExam\bin\Debug\GeographyExam.exe
+C:\Users\Turbo-X\documents\visual studio 2013\Projects\GeographyExam\GeographyExam\bin\Debug\GeographyExam.pdb
+C:\Users\Turbo-X\documents\visual studio 2013\Projects\GeographyExam\GeographyExam\bin\Debug\EntityFramework.dll
+C:\Users\Turbo-X\documents\visual studio 2013\Projects\GeographyExam\GeographyExam\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Turbo-X\documents\visual studio 2013\Projects\GeographyExam\GeographyExam\bin\Debug\EntityFramework.xml
+C:\Users\Turbo-X\documents\visual studio 2013\Projects\GeographyExam\GeographyExam\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Turbo-X\documents\visual studio 2013\Projects\GeographyExam\GeographyExam\obj\Debug\GeographyExam.csprojResolveAssemblyReference.cache
+C:\Users\Turbo-X\documents\visual studio 2013\Projects\GeographyExam\GeographyExam\obj\Debug\GeographyExam.exe
+C:\Users\Turbo-X\documents\visual studio 2013\Projects\GeographyExam\GeographyExam\obj\Debug\GeographyExam.pdb

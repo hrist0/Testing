@@ -1,0 +1,12 @@
+C:\Users\Turbo-X\Documents\Visual Studio 2013\Projects\GeographyExam\ExportFromXML\bin\Debug\ExportFromXML.exe.config
+C:\Users\Turbo-X\Documents\Visual Studio 2013\Projects\GeographyExam\ExportFromXML\bin\Debug\ExportFromXML.exe
+C:\Users\Turbo-X\Documents\Visual Studio 2013\Projects\GeographyExam\ExportFromXML\bin\Debug\ExportFromXML.pdb
+C:\Users\Turbo-X\Documents\Visual Studio 2013\Projects\GeographyExam\ExportFromXML\bin\Debug\EntityFramework.dll
+C:\Users\Turbo-X\Documents\Visual Studio 2013\Projects\GeographyExam\ExportFromXML\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Turbo-X\Documents\Visual Studio 2013\Projects\GeographyExam\ExportFromXML\bin\Debug\GeographyExam.exe
+C:\Users\Turbo-X\Documents\Visual Studio 2013\Projects\GeographyExam\ExportFromXML\bin\Debug\GeographyExam.pdb
+C:\Users\Turbo-X\Documents\Visual Studio 2013\Projects\GeographyExam\ExportFromXML\bin\Debug\EntityFramework.xml
+C:\Users\Turbo-X\Documents\Visual Studio 2013\Projects\GeographyExam\ExportFromXML\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Turbo-X\Documents\Visual Studio 2013\Projects\GeographyExam\ExportFromXML\obj\Debug\ExportFromXML.csprojResolveAssemblyReference.cache
+C:\Users\Turbo-X\Documents\Visual Studio 2013\Projects\GeographyExam\ExportFromXML\obj\Debug\ExportFromXML.exe
+C:\Users\Turbo-X\Documents\Visual Studio 2013\Projects\GeographyExam\ExportFromXML\obj\Debug\ExportFromXML.pdb
